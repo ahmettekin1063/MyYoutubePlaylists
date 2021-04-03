@@ -1,0 +1,1753 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "ycO91iE2RSMSZd9KugBUPbgqLWk",
+  "pageInfo": {
+    "totalResults": 41,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "_hApZVaUsBRxcJqmmidOcNbUBrk",
+      "id": "PLnxHdTRv2OBeMRQ9l3--RZLcMv_VhkKSR",
+      "snippet": {
+        "publishedAt": "2021-03-30T13:24:52Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 28. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 28. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "2nEN9TnHyNW7il0UgvS0rbrL_rw",
+      "id": "PLnxHdTRv2OBeegT4WpyvclMjl4mi7d3kA",
+      "snippet": {
+        "publishedAt": "2021-03-23T12:15:59Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 27. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jigqelXIsn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jigqelXIsn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jigqelXIsn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jigqelXIsn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jigqelXIsn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 27. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zw-CQyxPqSIQU0oTBD_yVpW45EI",
+      "id": "PLnxHdTRv2OBfoQ7V6EIH7Kdzpg51Y_piu",
+      "snippet": {
+        "publishedAt": "2021-03-16T13:10:51Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 26. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LvN-g-BwUGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LvN-g-BwUGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvN-g-BwUGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LvN-g-BwUGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LvN-g-BwUGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 26. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9kOhc5QyXHUqfgVECSgBoK2aOgo",
+      "id": "PLnxHdTRv2OBc0DermqI4YwCF0zMIjLMqx",
+      "snippet": {
+        "publishedAt": "2021-03-09T14:18:54Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 25. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yV2x1qAZgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yV2x1qAZgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yV2x1qAZgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8yV2x1qAZgk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8yV2x1qAZgk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 25. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PzHUSwRIVKWiGHTlzKVKso6wvVg",
+      "id": "PLnxHdTRv2OBd9q8IgCLeKF4wXYdlNItnl",
+      "snippet": {
+        "publishedAt": "2021-03-02T12:33:09Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 24. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/frNEdxQLrqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/frNEdxQLrqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/frNEdxQLrqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/frNEdxQLrqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/frNEdxQLrqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 24. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rlh6_JrOnwHvmxScoD6WGfcr3MU",
+      "id": "PLnxHdTRv2OBcHaQuEUDs3j8LOIMCuJyUd",
+      "snippet": {
+        "publishedAt": "2021-02-23T13:56:28Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 23. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g3oKShMEEeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g3oKShMEEeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g3oKShMEEeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g3oKShMEEeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g3oKShMEEeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 23. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6H780fKU_nnEr-rapMfK-5QFq6c",
+      "id": "PLnxHdTRv2OBcBFRS7QDVv1iq711FSlS-R",
+      "snippet": {
+        "publishedAt": "2021-02-16T18:01:47Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 22. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rob_5hlAFSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rob_5hlAFSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rob_5hlAFSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rob_5hlAFSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rob_5hlAFSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 22. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1hybDg4F6RruA-i2vtth3-9e4JU",
+      "id": "PLnxHdTRv2OBeXCMM1X7v5YqVFg_pDAPOJ",
+      "snippet": {
+        "publishedAt": "2021-02-09T14:43:10Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 21. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xM8T0W5sN_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xM8T0W5sN_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xM8T0W5sN_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xM8T0W5sN_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xM8T0W5sN_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 21. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lXlzBGWNMvsMZvaTp1BwFeNnCuM",
+      "id": "PLnxHdTRv2OBdN-hDTcA4iatnhPPENFnEX",
+      "snippet": {
+        "publishedAt": "2021-02-02T14:10:05Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 20. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJJRe4romgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJJRe4romgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJJRe4romgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kJJRe4romgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kJJRe4romgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 20. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wksbs6td8wQw_OgWqSyeUQHM6KY",
+      "id": "PLnxHdTRv2OBdP7V1dHXI2vU4bfasaDU70",
+      "snippet": {
+        "publishedAt": "2021-01-26T13:03:19Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 19. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-yhqw8GKyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-yhqw8GKyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-yhqw8GKyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5-yhqw8GKyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5-yhqw8GKyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 19. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xCf6AF3wvPkfQKbHTntwAPRNKIQ",
+      "id": "PLnxHdTRv2OBeb9yZtv0cQ8Sgw5UCitXwO",
+      "snippet": {
+        "publishedAt": "2021-01-19T16:26:14Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 18. Bölüm Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pAkucpmCG2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pAkucpmCG2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pAkucpmCG2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pAkucpmCG2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pAkucpmCG2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 18. Bölüm Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "t1N0iemlJVGMeUbaAUSxE_ixxFg",
+      "id": "PLnxHdTRv2OBfeXfNXb-_0qp1H4nGObphq",
+      "snippet": {
+        "publishedAt": "2021-01-12T13:33:49Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 17. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IadZCrByVYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IadZCrByVYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IadZCrByVYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IadZCrByVYg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IadZCrByVYg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 17. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jmfAty5J_q4gGNQmrbN-foJ-yyw",
+      "id": "PLnxHdTRv2OBf5aC7INB2W6V7k-YXPw83S",
+      "snippet": {
+        "publishedAt": "2020-12-31T07:55:05Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Diziden Şiirler 📖🕊",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xYnp7cNPqKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xYnp7cNPqKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xYnp7cNPqKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xYnp7cNPqKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xYnp7cNPqKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Diziden Şiirler 📖🕊",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jZo_jTDmfeeIZeIs-x4aY3RZAGc",
+      "id": "PLnxHdTRv2OBfsUql2hBEsx0YIN4pHco5j",
+      "snippet": {
+        "publishedAt": "2020-12-31T07:48:34Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Diziden Müzikler 🎶",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbjyOXghg2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbjyOXghg2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbjyOXghg2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nbjyOXghg2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nbjyOXghg2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Diziden Müzikler 🎶",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "z2xzfvxwUvhFVxXrXfVbzhTgDeU",
+      "id": "PLnxHdTRv2OBfiYjouIwxbeufnZX3qWJNV",
+      "snippet": {
+        "publishedAt": "2020-12-29T16:04:19Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 16. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/29N5KmNwdh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/29N5KmNwdh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/29N5KmNwdh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/29N5KmNwdh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/29N5KmNwdh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 16. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zLbmBUaPvIH6Nqr9hUcYzF7efV4",
+      "id": "PLnxHdTRv2OBftOthdQ1yshr9dnnKqj-zJ",
+      "snippet": {
+        "publishedAt": "2020-12-22T15:53:10Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 15. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TKYTc3Jxax4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TKYTc3Jxax4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TKYTc3Jxax4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TKYTc3Jxax4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TKYTc3Jxax4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 15. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "HZ7ESXxc_MbItccVVXIFK1cbXzE",
+      "id": "PLnxHdTRv2OBfleawAEhQxqBT7tF36cgcT",
+      "snippet": {
+        "publishedAt": "2020-12-15T14:15:26Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 14. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VXLETVtZrx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VXLETVtZrx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VXLETVtZrx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VXLETVtZrx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VXLETVtZrx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 14. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xLZDCNqXuhm5fRYpCuQj90_h2Jc",
+      "id": "PLnxHdTRv2OBeSngwidbDtoqGQzZGLOJLE",
+      "snippet": {
+        "publishedAt": "2020-12-08T14:13:58Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 13. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ISQpJk_Kop8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ISQpJk_Kop8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ISQpJk_Kop8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ISQpJk_Kop8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ISQpJk_Kop8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 13. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3Oe2WIe_uortRQdcpVEh7xw5OGU",
+      "id": "PLnxHdTRv2OBfjQQcucWz6iz80x6x1uaG1",
+      "snippet": {
+        "publishedAt": "2020-12-01T23:01:19Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Naci Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QxUrH-5U0-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QxUrH-5U0-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QxUrH-5U0-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QxUrH-5U0-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QxUrH-5U0-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Naci Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iWj2oPJa4ayAPZvb-ZLS_MBrI6k",
+      "id": "PLnxHdTRv2OBfccOXvjTE90NGMdoNCmLAO",
+      "snippet": {
+        "publishedAt": "2020-12-01T22:57:20Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Naci & Safiye Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Naci & Safiye Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0EdESAcAtQNx5jVJ0VVD3LSGDyY",
+      "id": "PLnxHdTRv2OBf8X3ey9Pzw0MbDRxooh1qt",
+      "snippet": {
+        "publishedAt": "2020-12-01T15:46:40Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 12. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V7jz67y79B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 12. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zUmegBu4C7916yEW9bxc01ds8m0",
+      "id": "PLnxHdTRv2OBcL6hvvyM13FfU3TtPT4OrL",
+      "snippet": {
+        "publishedAt": "2020-11-24T12:37:08Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 11. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFMPqjqAwKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFMPqjqAwKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFMPqjqAwKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JFMPqjqAwKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JFMPqjqAwKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 11. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9Zytc6vYRVz-SH5nMwsBp_Tidhk",
+      "id": "PLnxHdTRv2OBffYWWrg0HXwUY_9d39q7ye",
+      "snippet": {
+        "publishedAt": "2020-11-17T13:55:43Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 10. Bölüm Sahneler",
+        "description": "Bir başka sevgili sevemem sevemem sevemem!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/93beRwKUH48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/93beRwKUH48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/93beRwKUH48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/93beRwKUH48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/93beRwKUH48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 10. Bölüm Sahneler",
+          "description": "Bir başka sevgili sevemem sevemem sevemem!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "A3MZQbwxn3Ylq2BPknlfPdYtWqs",
+      "id": "PLnxHdTRv2OBeXlD4vg5orBJQsYXIwn1YX",
+      "snippet": {
+        "publishedAt": "2020-11-12T14:30:57Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Gülben Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpwAXhjO8hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpwAXhjO8hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpwAXhjO8hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fpwAXhjO8hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fpwAXhjO8hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Gülben Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "16mfWALJELFEnFQIJGAjvI3zoUk",
+      "id": "PLnxHdTRv2OBep0vFzBA42MP0UWbgWzK67",
+      "snippet": {
+        "publishedAt": "2020-11-12T14:27:34Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Safiye Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyJ0e2MFsbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyJ0e2MFsbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyJ0e2MFsbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YyJ0e2MFsbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YyJ0e2MFsbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Safiye Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zRrC2kEiprz_NljfcHfn_4RrU5g",
+      "id": "PLnxHdTRv2OBdJz7wfkxdC6LHbRlx1CXdi",
+      "snippet": {
+        "publishedAt": "2020-11-12T14:22:01Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Neriman & Ege Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d8qu1PjPnog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d8qu1PjPnog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d8qu1PjPnog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d8qu1PjPnog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d8qu1PjPnog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Neriman & Ege Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "RF3sNgv2tcJAva9P2711keWYOBk",
+      "id": "PLnxHdTRv2OBdbJ8geRpGfrh9FAy13Cp6Q",
+      "snippet": {
+        "publishedAt": "2020-11-12T14:18:38Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Han & İnci Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RWdTbqXpzWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RWdTbqXpzWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RWdTbqXpzWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RWdTbqXpzWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RWdTbqXpzWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Han & İnci Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tDcqeZirVfBy6Qaxnq6csoji-h4",
+      "id": "PLnxHdTRv2OBfzoaJrNdtGMn3ltQcPMaF8",
+      "snippet": {
+        "publishedAt": "2020-11-12T14:13:46Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Safiye & Gülben Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oasf2D2wFl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oasf2D2wFl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oasf2D2wFl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oasf2D2wFl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oasf2D2wFl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Safiye & Gülben Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6h_HiyRiZTNHL0JqM5XDeiagcVY",
+      "id": "PLnxHdTRv2OBfTYIXVIA-81pyM5cKIp7zM",
+      "snippet": {
+        "publishedAt": "2020-11-10T18:52:57Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Gülben & Esat Sahneleri",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_Oq03f7FLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_Oq03f7FLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_Oq03f7FLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_Oq03f7FLA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_Oq03f7FLA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Gülben & Esat Sahneleri",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OY5bZOPvDQ8UY8xDPTc_s5CaIIQ",
+      "id": "PLnxHdTRv2OBe7KWbUUJX_FP64SmjGFW1G",
+      "snippet": {
+        "publishedAt": "2020-11-10T14:07:23Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 9. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzhxYslNLmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzhxYslNLmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzhxYslNLmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzhxYslNLmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzhxYslNLmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 9. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Cp2ZetKykA__DFl03ssq7udNhP4",
+      "id": "PLnxHdTRv2OBeqSkGZCoKGm3zN15OCO_IX",
+      "snippet": {
+        "publishedAt": "2020-11-03T13:30:33Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 8. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OnqnLt-fZwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OnqnLt-fZwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OnqnLt-fZwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OnqnLt-fZwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OnqnLt-fZwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 8. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zQWzUxU37P1XNoiCaCxwHlIFyXg",
+      "id": "PLnxHdTRv2OBdk8lB8tEvMkWkNFI8MHYGV",
+      "snippet": {
+        "publishedAt": "2020-10-27T16:04:07Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 7. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d0ifcRyVNa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d0ifcRyVNa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d0ifcRyVNa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d0ifcRyVNa4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d0ifcRyVNa4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 7. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6MRFSWU_m2ahw1ADF-iMDAzjqxc",
+      "id": "PLnxHdTRv2OBdQ2s9SVepS093P2u-QCuK_",
+      "snippet": {
+        "publishedAt": "2020-10-20T15:30:14Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 6. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eh3ZEu67Mq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eh3ZEu67Mq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eh3ZEu67Mq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eh3ZEu67Mq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eh3ZEu67Mq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 6. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jgkb2Ii6QLtOD4XWFDVmvsrkDwg",
+      "id": "PLnxHdTRv2OBdRPam3XQ2uMUg6jzf5oAnw",
+      "snippet": {
+        "publishedAt": "2020-10-13T15:01:45Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 5. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xM-mkytk4Aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xM-mkytk4Aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xM-mkytk4Aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xM-mkytk4Aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xM-mkytk4Aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 5. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kY40rqOfr4ZMOjkVUE-TiuV9ugI",
+      "id": "PLnxHdTRv2OBfmyyurFmNhn3RQcfu4kCDr",
+      "snippet": {
+        "publishedAt": "2020-10-06T10:12:05Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 4. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PTFDh2QhBj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PTFDh2QhBj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PTFDh2QhBj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PTFDh2QhBj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PTFDh2QhBj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 4. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SscitgUYlE0sX_iQmwEGPn7Ef8I",
+      "id": "PLnxHdTRv2OBex1e7On7kGtdXx7VWVmg5s",
+      "snippet": {
+        "publishedAt": "2020-10-02T09:31:39Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı Röportaj",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı Röportaj",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JbxUg6A_ZnwaDqqZ9v_GscJWadE",
+      "id": "PLnxHdTRv2OBcgA_cmvz_1xE_O40PBxyFu",
+      "snippet": {
+        "publishedAt": "2020-09-29T16:00:00Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 3. Bölüm Sahneler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxDX19wNhpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxDX19wNhpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxDX19wNhpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XxDX19wNhpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XxDX19wNhpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 3. Bölüm Sahneler",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "joY1D5Lky6UJyI3nKxI0xNf9Cwk",
+      "id": "PLnxHdTRv2OBfCu-gHo_XRRtJNlvE7tcJZ",
+      "snippet": {
+        "publishedAt": "2020-09-22T18:08:40Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 2. Bölüm Sahneler",
+        "description": "Sen olmazsan biz ne yaparız, hiç düşündün mü?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yhYwcMAGvT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yhYwcMAGvT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yhYwcMAGvT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yhYwcMAGvT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yhYwcMAGvT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 2. Bölüm Sahneler",
+          "description": "Sen olmazsan biz ne yaparız, hiç düşündün mü?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iE6xie5YYHDFPcWli7ockHsbfQU",
+      "id": "PLnxHdTRv2OBc4ep-93_w2Q8svvmxrl7_T",
+      "snippet": {
+        "publishedAt": "2020-09-16T06:48:01Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | Bölümler",
+        "description": "Gerçek hayat hikayeleri, gerçek hayal kırıklıkları…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDoGY6iwLwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDoGY6iwLwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDoGY6iwLwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDoGY6iwLwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDoGY6iwLwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | Bölümler",
+          "description": "Gerçek hayat hikayeleri, gerçek hayal kırıklıkları…"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "f--Zl3U7XbXQXvVUGpOTr3yx6Dw",
+      "id": "PLnxHdTRv2OBdi04K1iZ07PINIIJYv88Aq",
+      "snippet": {
+        "publishedAt": "2020-09-15T18:42:37Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | 1. Bölüm Sahneler",
+        "description": "Her evin bir sırrı, her kalbin bir yarası vardır. Bazen de kapıyı aşk çalar... #MasumlarApartmanı her salı 20.00'de TRT 1'de.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9nqGUehaaR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9nqGUehaaR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9nqGUehaaR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9nqGUehaaR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9nqGUehaaR0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | 1. Bölüm Sahneler",
+          "description": "Her evin bir sırrı, her kalbin bir yarası vardır. Bazen de kapıyı aşk çalar... #MasumlarApartmanı her salı 20.00'de TRT 1'de."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8i9dqqjbkB2RCycBnQ8iy8YKBn4",
+      "id": "PLnxHdTRv2OBfkb7QX_orI6YiQg4zhKooQ",
+      "snippet": {
+        "publishedAt": "2020-09-09T10:12:47Z",
+        "channelId": "UC1wRZwOGxBpJNQsC_1w7AbA",
+        "title": "Masumlar Apartmanı | Fragmanlar",
+        "description": "Masum hayatların gerçek hikayesi #MasumlarApartmanı her salı TRT 1'de.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZNYSw3ffZ8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZNYSw3ffZ8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZNYSw3ffZ8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZNYSw3ffZ8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZNYSw3ffZ8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Masumlar Apartmanı",
+        "localized": {
+          "title": "Masumlar Apartmanı | Fragmanlar",
+          "description": "Masum hayatların gerçek hikayesi #MasumlarApartmanı her salı TRT 1'de."
+        }
+      }
+    }
+  ]
+}
