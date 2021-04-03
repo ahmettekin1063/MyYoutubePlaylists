@@ -11,9 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyYoutubePlaylists">
-
-
-
+        <activity android:name=".view.PlayVideoActivity"></activity>
         <activity android:name=".view.VideosActivity" />
         <activity android:name=".view.MainActivity">
             <intent-filter>

@@ -21,17 +21,12 @@ import retrofit2.Callback
 import retrofit2.Response
 
 class VideosActivity : AppCompatActivity() {
-
     val API_KEY = "AIzaSyCW3qEDO2egGMG1ff6eVS2sTwG-X6TpU5Q"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_videos)
-
         val listId = intent.getStringExtra("playlistItem")
-        println(listId)
-
-
         val apiInterface = VideosApiClient.client?.create(PlaylistItemApiInterface::class.java)
         val apiCall = apiInterface?.tumVideolariGetir(listId!!, API_KEY, 50)
 
@@ -44,7 +39,6 @@ class VideosActivity : AppCompatActivity() {
             override fun onFailure(call: Call<PlaylistItems>, t: Throwable) {
                 println("hata: ${t.localizedMessage}")
             }
-
         })
     }
 }

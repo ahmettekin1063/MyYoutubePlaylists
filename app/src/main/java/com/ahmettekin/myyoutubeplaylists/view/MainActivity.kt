@@ -22,11 +22,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-
         val apiInterface = PlaylistApiClient.client?.create(PlaylistApiInterface::class.java)
         val apiCall = apiInterface?.tumListeleriGetir(CHANNEL_ID, API_KEY, 50)
-
         apiCall?.enqueue(object : Callback<PlaylistData> {
 
             override fun onResponse(call: Call<PlaylistData>?, response: Response<PlaylistData>?) {
@@ -39,7 +36,6 @@ class MainActivity : AppCompatActivity() {
             override fun onFailure(call: Call<PlaylistData>?, t: Throwable?) {
                 Log.e("HATA", "" + t?.printStackTrace())
             }
-
         })
     }
 }

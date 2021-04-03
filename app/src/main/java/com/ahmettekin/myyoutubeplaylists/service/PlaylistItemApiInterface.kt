@@ -9,5 +9,4 @@ import retrofit2.http.Query
 interface PlaylistItemApiInterface {
     @GET("playlistItems?part=snippet")
     fun  tumVideolariGetir(@Query("playlistId") playlistId:String, @Query("key") apiKey:String, @Query("maxResults") limit:Int): Call<PlaylistItems>
-
 }

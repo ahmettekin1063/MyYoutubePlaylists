@@ -15,9 +15,7 @@ import kotlinx.android.synthetic.main.playlist_tek_satir.view.*
 class PlaylistAdapter(private val myList: List<PlaylistData.Item?>?) : RecyclerView.Adapter<PlaylistAdapter.MyViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
-        return MyViewHolder(
-            LayoutInflater.from(parent.context).inflate(R.layout.playlist_tek_satir, parent, false)
-        )
+        return MyViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.playlist_tek_satir, parent, false))
     }
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
