@@ -3,15 +3,15 @@ package com.ahmettekin.myyoutubeplaylists.service
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-object ApiClient {
+object VideosApiClient {
 
-    val BASE_URL="https://www.googleapis.com/youtube/v3/"
+    val BASE_URL="https://youtube.googleapis.com/youtube/v3/"
     private var retrofit: Retrofit? = null
 
-    val client:Retrofit?
+    val client: Retrofit?
         get() {
             if(retrofit ==null){
-                retrofit =Retrofit.Builder()
+                retrofit = Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addConverterFactory(GsonConverterFactory.create())
                     .build()

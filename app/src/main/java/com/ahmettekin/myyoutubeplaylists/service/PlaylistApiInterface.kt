@@ -5,7 +5,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-interface ApiInterface {
+interface PlaylistApiInterface {
 
     @GET("playlists?part=snippet")
     fun  tumListeleriGetir(@Query("channelId") channelID:String, @Query("key") apiKey:String, @Query("maxResults") limit:Int): Call<PlaylistData>
